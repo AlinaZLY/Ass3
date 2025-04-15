@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/LiyinZhang/Free Viking Pack.meta
 guid: cdcb23bc01131bb41bf5d5161c4f514b
 folderAsset: yes
+========
+guid: 0e4c814bbc3492144a14c92d057690af
+timeCreated: 1520356859
+licenseType: Store
+>>>>>>>> Stashed changes:Assets/TeddyHeadKids-2.1/Demo/TeddyHeadKids-2.1.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

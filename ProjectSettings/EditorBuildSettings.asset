@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Menu/Scenes/Menu.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/LiyinZhang/Scene/LiyinZhangScene.unity
     guid: 20187c0984cb6404ebe39ffb52ea6d75
+  - enabled: 1
+    path: Assets/Menu/Scene/Menu.unity
+    guid: a816caabec3ecf245a990a6ead1d5b45
+  - enabled: 1
+    path: Assets/SiyuanWang/Scene/siyuanWang Scene.unity
+    guid: 60206f1cffe327a4c8417e60108c6a92
   m_configObjects: {}
